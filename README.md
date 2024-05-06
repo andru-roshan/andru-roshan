@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andruroshan&label=Profile%20views&color=0e75b6&style=flat" alt="andruroshan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andruroshan" alt="andruroshan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andru-roshan" alt="andru-roshan" /></a> </p>
 
 - 🔭 I’m currently working on [conference room booking system](https://github.com/flyerssoft-js/crb-mobile-app)
 
